@@ -30,6 +30,13 @@ public final class Constants {
     public static final String API_KEY = "apiKey";
     public static final String API_KEY_PLACEHOLDER = "YOUR_API_KEY";
 
+    /**
+     * Response fields
+     */
+    public static final String ITEMS = "items";
+    public static final String TITLE = "title";
+    public static final String DESCRIPTION = "description";
+
 
 
 }
