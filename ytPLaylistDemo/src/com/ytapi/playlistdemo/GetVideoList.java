@@ -81,12 +81,4 @@ public class GetVideoList {
 
     }
 
-    public static void main(String[] args) {
-        ArrayList<YouTubeVideo> list = getPLayListVideos("PL26AWs0TLY3I9xCBnWR9Sv5QGI5hBZ1X1",0);
-        for(YouTubeVideo video : list){
-            System.out.println(video.getTitle());
-        }
-
-    }
-
 }

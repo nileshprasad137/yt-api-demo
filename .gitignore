@@ -72,3 +72,4 @@ fabric.properties
 
 out/
 *.iml
+defaultInput.txt
